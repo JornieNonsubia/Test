@@ -1,5 +1,5 @@
 Some test info
 
-More test info
+Deleted info
 
 Even more test info
